@@ -1,0 +1,10 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<configuration>-->
+<!--    <appender name="YourAppender" class="ch.qos.logback.core.ConsoleAppender">-->
+<!--        &lt;!&ndash; Your appender configuration goes here &ndash;&gt;-->
+<!--    </appender>-->
+<!--    <logger name="org.springframework" level="debug"/>-->
+<!--    <root level="error">-->
+<!--        <appender-ref ref="YourAppender"/>-->
+<!--    </root>-->
+<!--</configuration>-->

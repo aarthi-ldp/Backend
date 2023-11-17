@@ -1,0 +1,13 @@
+<!-- applicationContext.xml -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Define a bean for ThatSillyCoach -->
+    <bean id="thatSillyCoach"  class="com.zemoso.springmvc.TennisCoach">
+        <!-- Inject any dependencies or configure properties if needed -->
+    </bean>
+
+
+</beans>
